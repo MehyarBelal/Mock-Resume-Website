@@ -84,12 +84,13 @@ h2:hover{
 .box{
     display:flex;
     justify-content: space-between;
-    padding: 60px;
+    padding: 120px;
     height:100vh;
 }
 .box p {
     text-shadow: none;
-    width: 500px;
+    width: 600px;
+    text-align: left;
     
 }
 
